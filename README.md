@@ -12,4 +12,7 @@ Instructions:
 
 Notes:
 Yes, I am aware this is shitty code.
+
 Yes, I have used some code from stackoverflow.
+
+This uses the unlicense, anyone can redistribute or use in any form.

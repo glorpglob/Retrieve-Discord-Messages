@@ -18,3 +18,8 @@ Yes, I am aware this is shitty code.
 Yes, I have used some code from stackoverflow.
 
 This uses the unlicense, anyone can redistribute or use in any form.
+
+
+Examples of use: 
+1. Something like https://github.com/widesteal321/randomSentenceBot
+2. Easy access to your message data

@@ -10,7 +10,9 @@ Instructions:
 3. Run `index.js` \ For windows users, you can run the `start.bat` file for more efficency.
 4. `information.json` should now have all of your messages!
 
+
 Notes:
+
 Yes, I am aware this is shitty code.
 
 Yes, I have used some code from stackoverflow.

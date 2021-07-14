@@ -25,8 +25,9 @@ while ((dirent = dir.readSync()) !== null) {
       });
     }
   }
+  
   dir2.closeSync();
-
 }
+
 dir.closeSync();
 console.log("Completed, check information.json.")

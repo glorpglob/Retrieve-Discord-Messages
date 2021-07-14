@@ -8,3 +8,6 @@ Instructions:
 2. Create a json file called `information.json` in the same directory as `index.js`
 3. Run `index.js`
 4. `information.json` should now have all of your messages!
+
+Notes:
+Yes, I am aware this is shitty code.

@@ -1,5 +1,5 @@
 # retrieveDiscordMessages
-Using your requested data from discord, use this to convert it to JSON.
+Using your requested data from discord which may have came in hundereds of CSVs, use this to convert it to one JSON file.
 
 This requires `csv-string`, which you can install using `npm i csv-string`.
 

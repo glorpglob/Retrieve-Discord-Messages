@@ -12,10 +12,7 @@ Instructions:
 
 
 Notes:
-
-Yes, I am aware this is shitty code.
-
-Yes, I have used some code from stackoverflow.
+Discontinued! May not work as discord rolls out new updates.
 
 This uses the unlicense, anyone can redistribute or use in any form.
 

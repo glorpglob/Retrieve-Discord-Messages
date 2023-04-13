@@ -1,5 +1,5 @@
-# retrieveDiscordMessages / small project
-Using your requested data from discord which may have came in hundereds of CSVs, use this to convert it to one JSON file.
+# Retrieve Discord Messages
+Using your requested data from discord which may have come in hundereds of CSVs, use this to convert it to one JSON file.
 
 This requires `csv-string`, which you can install using `npm i csv-string`.
 This also requires node.js .
@@ -18,5 +18,5 @@ This uses the unlicense, anyone can redistribute or use in any form.
 
 
 Examples of use: 
-1. Something like https://github.com/widesteal321/randomSentenceBot
+1. Something like https://github.com/glorpglob/randomSentenceBot
 2. Easy access to your message data
